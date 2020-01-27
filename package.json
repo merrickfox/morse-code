@@ -1,0 +1,14 @@
+{
+  "name": "morse-challenge",
+  "version": "1.0.0",
+  "description": "Challenge for resource guru, morse code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Merrick Fox",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
